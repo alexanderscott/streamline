@@ -8,6 +8,7 @@ GEM
       weak_observable (~> 1.0)
     hallon-openal (1.0.1)
       hallon (~> 0.13)
+    json (1.8.0)
     libspotify (12.1.51.3)
     ref (1.0.5)
     spotify (12.5.2)
@@ -22,3 +23,4 @@ PLATFORMS
 DEPENDENCIES
   hallon
   hallon-openal
+  json
