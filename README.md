@@ -14,6 +14,7 @@ Run
 Install/Configure
 ------------
  * Insert spotify login credentials into `creds.rb`
+ * `gem install hallon hallon-openal`
 
 
 TODO
